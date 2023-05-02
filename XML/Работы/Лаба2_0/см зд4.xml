@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Aeroport>
+                    <reic>
+                            <ecipag>1123 </ecipag>
+                    </reic>
+                    <reic>
+                             <ecipag> 8905</ecipag>
+                   </reic>
+                   <reic>
+                          <ecipag>2345 </ecipag>
+                   </reic>
+</Aeroport>

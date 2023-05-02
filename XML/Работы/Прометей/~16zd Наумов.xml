@@ -1,0 +1,3705 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<price_list>
+<tovars>
+<category id="MP 3 плееры">
+<tovar id="13">
+<naim>IRIver T-60 2GB white "MP3плеер"</naim>
+<edizm>шт</edizm>
+<price>3300,45</price>
+</tovar>
+<tovar id="14">
+<naim>Диктофон Olympus 'VN-3500PC'</naim>
+<edizm>шт</edizm>
+<price>2799</price>
+</tovar>
+<tovar id="15">
+<naim>Диктофон Olympus VN-5500<</naim>
+<edizm>шт</edizm>
+<price>2299</price>
+</tovar>
+<tovar id="16">
+<naim>Диктофон Olympus VN-5500PC></naim>
+<edizm>шт</edizm>
+<price>3299</price>
+</tovar>
+<tovar id="17">
+<naim>Диктофон Olympus VN-6500PC&</naim>
+<edizm>шт</edizm>
+<price>3999</price>
+</tovar>
+<tovar id="18">
+<naim>МР3 FM Модулятор- память 0МБ</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="19">
+<naim>МР3 FM Модулятор- память 1ГБ</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="20">
+<naim>МР3 FM Модулятор- память 2ГБ</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="21">
+<naim>Плеер SANDISK SDMX2-1024</naim>
+<edizm>шт</edizm>
+<price>2500</price>
+</tovar>
+<tovar id="22">
+<naim>Цифровое уст-во 19-in-1 USB2.0 Euro Data</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+</category>
+<category id="Аккумуляторы">
+<tovar id="24">
+<naim>Duracell R03 1000mAh Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="25">
+<naim>Duracell R06 2650mAh Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>190</price>
+</tovar>
+<tovar id="26">
+<naim>GP 2000 mAh Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>98</price>
+</tovar>
+<tovar id="27">
+<naim>Kodak R6 2100mAh Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>90</price>
+</tovar>
+<tovar id="28">
+<naim>Lenmar PRO 19 (. АА 200 mAh) аккумулятор</naim>
+<edizm>шт</edizm>
+<price>360</price>
+</tovar>
+<tovar id="29">
+<naim>Lenmar PRO 410 1000 maч AAA 4шт аккумулятор</naim>
+<edizm>шт</edizm>
+<price>100</price>
+</tovar>
+<tovar id="30">
+<naim>Lenmar PRO 415-25(4 шт. АА 2500 mAh) аккумулятор</naim>
+<edizm>шт</edizm>
+<price>140</price>
+</tovar>
+<tovar id="31">
+<naim>Lenmar PRO 420-20 (4 шт. АА 2000 mAh) аккумулятор</naim>
+<edizm>шт</edizm>
+<price>100</price>
+</tovar>
+<tovar id="32">
+<naim>Lenmar PRO 423-23 (4 шт. АА 2300 mAh) аккумулятор</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="33">
+<naim>Lenmar PRO 425-25 (4 шт. АА 2500 mAh) аккумулятор</naim>
+<edizm>шт</edizm>
+<price>140</price>
+</tovar>
+<tovar id="34">
+<naim>Lenmar PRO 427(4 шт. АА 2700 mAh) аккумулятор</naim>
+<edizm>шт</edizm>
+<price>150</price>
+</tovar>
+<tovar id="35">
+<naim>Lenmar PRO1025R (10шт. АА 2500 mAh) аккумулятор</naim>
+<edizm>шт</edizm>
+<price>140</price>
+</tovar>
+<tovar id="36">
+<naim>Samsung AAA 1000mah Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>90</price>
+</tovar>
+<tovar id="37">
+<naim>Sony R 03 1000 Mah аккумулятор</naim>
+<edizm>шт</edizm>
+<price>100</price>
+</tovar>
+<tovar id="38">
+<naim>TDK R06 800 mAh Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>43</price>
+</tovar>
+</category>
+<category id="Аккумуляторы">
+<tovar id="40">
+<naim>AcmePower NP-FP90 для Sony DCR-HC 16EАккумулятор</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="41">
+<naim>AcmePower S007E Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="42">
+<naim>AcmePower SLB-10A Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="43">
+<naim>ANSMANN (Canon NB-2LH) для PS-S30/S40 Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="44">
+<naim>Canon NB-2LH для G7/400D/350D/S80/70 аккумулятор</naim>
+<edizm>шт</edizm>
+<price>3000</price>
+</tovar>
+<tovar id="45">
+<naim>Eneloop R6 2000mah Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>125</price>
+</tovar>
+<tovar id="46">
+<naim>ENKATSU NK EN-EL8 Батарея аккумуляторная</naim>
+<edizm>шт</edizm>
+<price>538</price>
+</tovar>
+<tovar id="47">
+<naim>ENKATSU SN NP-FT1 Батарея аккумуляторная</naim>
+<edizm>шт</edizm>
+<price>981</price>
+</tovar>
+<tovar id="48">
+<naim>JVC BN-VF808U 1Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>3000</price>
+</tovar>
+<tovar id="49">
+<naim>Lenmar DLNEL 4 11,1В 2000mah Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1700</price>
+</tovar>
+<tovar id="50">
+<naim>Lenmar DLNEL8 (Nicon EN-EL8)3.7B 7mah Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>590</price>
+</tovar>
+<tovar id="51">
+<naim>Lenmar DLNEL9 (Nicon EN-EL9)3.7B 1mah Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="52">
+<naim>Lenmar DLS 550 2000 maч 7,2 v Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="53">
+<naim>Lenmar DLSBG1 3.6V 1000mha Ак-ры</naim>
+<edizm>шт</edizm>
+<price>1800</price>
+</tovar>
+<tovar id="54">
+<naim>Lenmar DLSFC10 3.6V 700mha Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="55">
+<naim>Lenmar DLSFE1 (Sony NP-FE1) 3.6B 450 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>768</price>
+</tovar>
+<tovar id="56">
+<naim>Lenmar DLSG 1974 (Samsung SLB-S1974) Ак-ры</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="57">
+<naim>Lenmar DLSG 220 (Samsung SB-L110/L220) Ак-ры</naim>
+<edizm>шт</edizm>
+<price>1600</price>
+</tovar>
+<tovar id="58">
+<naim>Lenmar DLSR 1 (Sony NP-FR1) 3.6V 1220 mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="59">
+<naim>Lenmar DLО30B (Olympus LI30B)3.6V 645mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="60">
+<naim>Lenmar DLО40B (Olympus LI40B)3.7V 660mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="61">
+<naim>Lenmar DLОМ 1 7.2V 1500mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="62">
+<naim>Lenmar DLР005 3.7V 1150mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="63">
+<naim>Lenmar DLР006 (Panasonic CGA-S006) 7.2B Ак-ры</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="64">
+<naim>Lenmar DLР007 (Panasonic CGA-S007) 3.7B Ак-ры</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="65">
+<naim>Lenmar DLС 3L ( Canon NB-3L 7.4V 60) Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="66">
+<naim>Lenmar DLСE5 ( Canon LP-E5) 7.4v 1080mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="67">
+<naim>Lenmar DLСR123 3B 600mAh Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>366</price>
+</tovar>
+<tovar id="68">
+<naim>Lenmar DLСS40 ( Casio NP-40) 3.7V 12 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="69">
+<naim>Lenmar LIC208(Canon BP-208) 7.4V850mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="70">
+<naim>Lenmar LIJ 428(JVC BN-V428) 2800 mah Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="71">
+<naim>Lenmar LIJF714(VC BN-VF714U)7,2 v14000mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="72">
+<naim>Lenmar LIJF733 (JVC BN-VF733U)mah Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>2500</price>
+</tovar>
+<tovar id="73">
+<naim>Lenmar LIP 14 1400 maч 7,2 v Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1600</price>
+</tovar>
+<tovar id="74">
+<naim>Lenmar LIP 21 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>2400</price>
+</tovar>
+<tovar id="75">
+<naim>Lenmar LIP 320 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="76">
+<naim>Lenmar LIP620(Panasonic CGA-V620)7.2 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="77">
+<naim>Lenmar LIS 535 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1427</price>
+</tovar>
+<tovar id="78">
+<naim>Lenmar LIS950H(Soni NP-F960) 7,2 v5550mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>2300</price>
+</tovar>
+<tovar id="79">
+<naim>Lenmar LISFF70(Soni NP-FF70/)7,2 v1360mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>1609</price>
+</tovar>
+<tovar id="80">
+<naim>Lenmar LISGP90 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="81">
+<naim>Lenmar LISGP90 (Sony NP-FP90)7.2B 1 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1600</price>
+</tovar>
+<tovar id="82">
+<naim>Lenmar LISM50/DLSM50(Sony NP-FM50) Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1400</price>
+</tovar>
+<tovar id="83">
+<naim>Lenmar LISP50-2 (Sony NP-FP50)7.2B 1 Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>900</price>
+</tovar>
+<tovar id="84">
+<naim>Lenmar LISP70(Soni NP-FF70/)7,2 v1360mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>1400</price>
+</tovar>
+<tovar id="85">
+<naim>Lenmar NMH20/C (Panasonic VW-VBS2 mah Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="86">
+<naim>Lenmar DLС 5L( Canon NB-5L 3.7V 1120) Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="87">
+<naim>Lenmar LIC2L12 (Canon BP-2L12) 7.4V1300Акумуляторы</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="88">
+<naim>Lenmar LISG110 Ак-ры</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="89">
+<naim>Lenmar LISGM80 (SamsungSB-LS80/LSM80)800mah Ак-ры</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="90">
+<naim>Lenmar PRO 40E (универсальный адаптер)</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="91">
+<naim>SONI NP -F770 Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>3500</price>
+</tovar>
+<tovar id="92">
+<naim>SONI NP -FH50 Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>2500</price>
+</tovar>
+<tovar id="93">
+<naim>Stals ST BP511 Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="94">
+<naim>Stals ST NB 2LH Аккумулятор</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+</category>
+<category id="БАТАРЕЙКИ">
+<tovar id="96">
+<naim>CR 123 ENERGIZER Батарея</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="97">
+<naim>CR 123 Kodak Батарея</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="98">
+<naim>CR 123 FUJIFILM Батарея</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="99">
+<naim>CR 2 Fuji Батарея</naim>
+<edizm>шт</edizm>
+<price>130</price>
+</tovar>
+<tovar id="100">
+<naim>CR -2 PANASONIC Батарейка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="101">
+<naim>CR 123 TDK Батарейка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="102">
+<naim>CR123 Kodak Батарейка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="103">
+<naim>CR2 Kodak Батарейка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="104">
+<naim>CR2 Varta Батарейка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="105">
+<naim>Duracell LR 03 BL 2 Батарейка</naim>
+<edizm>шт</edizm>
+<price>25</price>
+</tovar>
+<tovar id="106">
+<naim>Duracell LR 03 BL 4 Батарейка</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="107">
+<naim>Duracell LR 03 Turbo BL 2 Батарейка</naim>
+<edizm>шт</edizm>
+<price>30</price>
+</tovar>
+<tovar id="108">
+<naim>Duracell LR 03 Turbo BL 4 Батарейка</naim>
+<edizm>шт</edizm>
+<price>30</price>
+</tovar>
+<tovar id="109">
+<naim>Duracell LR 06 BL 4 Батарейка</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="110">
+<naim>Duracell LR 06 Turbo BL 2 Батарейка</naim>
+<edizm>шт</edizm>
+<price>30</price>
+</tovar>
+<tovar id="111">
+<naim>Duracell LR 06 Turbo BL4 Батарейка</naim>
+<edizm>шт</edizm>
+<price>30</price>
+</tovar>
+<tovar id="112">
+<naim>FR 06 Energizer Батарейки</naim>
+<edizm>шт</edizm>
+<price>90</price>
+</tovar>
+<tovar id="113">
+<naim>LR 03 Energizer Base уп4шт Батарейки</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="114">
+<naim>LR 03 Energizer Maximum уп4шт Батарейки</naim>
+<edizm>шт</edizm>
+<price>30</price>
+</tovar>
+<tovar id="115">
+<naim>LR 03 Sanyo Батарейки</naim>
+<edizm>шт</edizm>
+<price>16</price>
+</tovar>
+<tovar id="116">
+<naim>LR 03-12BL Kodak Батарейки</naim>
+<edizm>шт</edizm>
+<price>16</price>
+</tovar>
+<tovar id="117">
+<naim>LR 03-4BL Kodak Батарейки</naim>
+<edizm>шт</edizm>
+<price>16</price>
+</tovar>
+<tovar id="118">
+<naim>LR 06 Energizer Maximum 4шт Батарейки</naim>
+<edizm>шт</edizm>
+<price>30</price>
+</tovar>
+<tovar id="119">
+<naim>LR 06 Energizer Base уп4шт Батарейки</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="120">
+<naim>LR 06 Kodak Батарейки</naim>
+<edizm>шт</edizm>
+<price>16</price>
+</tovar>
+<tovar id="121">
+<naim>LR06 SONY WALKMAN Батарейка</naim>
+<edizm>шт</edizm>
+<price>16</price>
+</tovar>
+<tovar id="122">
+<naim>R 03 Samsung 2BL Батарейка</naim>
+<edizm>шт</edizm>
+<price>7</price>
+</tovar>
+<tovar id="123">
+<naim>Sanyo CR 123 Батарейка</naim>
+<edizm>шт</edizm>
+<price>90</price>
+</tovar>
+<tovar id="124">
+<naim>Sony CR 123 Батарейка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+</category>
+<category id="Видео и аудио кассеты">
+<tovar id="126">
+<naim>ECP UF - 90 Аудиокассета</naim>
+<edizm>шт</edizm>
+<price>25</price>
+</tovar>
+<tovar id="127">
+<naim>ECP E-240 Видеокассета</naim>
+<edizm>шт</edizm>
+<price>85</price>
+</tovar>
+<tovar id="128">
+<naim>Emtec E 240 видеокассета</naim>
+<edizm>шт</edizm>
+<price>95</price>
+</tovar>
+<tovar id="129">
+<naim>Fuji AG-240 VHS Видеокассета</naim>
+<edizm>шт</edizm>
+<price>85</price>
+</tovar>
+<tovar id="130">
+<naim>JVC DVM-60min color В/кассета</naim>
+<edizm>шт</edizm>
+<price>170</price>
+</tovar>
+<tovar id="131">
+<naim>JVC DVM-60min В/кассета</naim>
+<edizm>шт</edizm>
+<price>170</price>
+</tovar>
+<tovar id="132">
+<naim>JVC EC-45EHG Видеокассета</naim>
+<edizm>шт</edizm>
+<price>130</price>
+</tovar>
+<tovar id="133">
+<naim>LG - 180+5 SHQ Видеокассета</naim>
+<edizm>шт</edizm>
+<price>70</price>
+</tovar>
+<tovar id="134">
+<naim>Maxell XLII-S 90 Аудиокассета</naim>
+<edizm>шт</edizm>
+<price>27</price>
+</tovar>
+<tovar id="135">
+<naim>Panasonic MiniDV DVC 60min Видеокассета</naim>
+<edizm>шт</edizm>
+<price>170</price>
+</tovar>
+<tovar id="136">
+<naim>Samsung MiniDV DVC 60min Видеокассета</naim>
+<edizm>шт</edizm>
+<price>170</price>
+</tovar>
+<tovar id="137">
+<naim>Sony CD 180 Видеокассета</naim>
+<edizm>шт</edizm>
+<price>70</price>
+</tovar>
+<tovar id="138">
+<naim>Sony CD 180 чистящая Видеокассета</naim>
+<edizm>шт</edizm>
+<price>70</price>
+</tovar>
+<tovar id="139">
+<naim>TDK D - 60 Аудиокасскета</naim>
+<edizm>шт</edizm>
+<price>25</price>
+</tovar>
+<tovar id="140">
+<naim>TDK D - 90 Аудиокасскета</naim>
+<edizm>шт</edizm>
+<price>27</price>
+</tovar>
+<tovar id="141">
+<naim>TDK E-180 Видеокассета</naim>
+<edizm>шт</edizm>
+<price>110</price>
+</tovar>
+<tovar id="142">
+<naim>TDK E-180TV Видеокассета</naim>
+<edizm>шт</edizm>
+<price>65</price>
+</tovar>
+<tovar id="143">
+<naim>TDK P5-90 EHG VIDEO-8 В/кассета</naim>
+<edizm>шт</edizm>
+<price>160</price>
+</tovar>
+<tovar id="144">
+<naim>TDK чистящая Аудиокасскета</naim>
+<edizm>шт</edizm>
+<price>50</price>
+</tovar>
+<tovar id="145">
+<naim>VHS-C JVC EC-60EHG Видеокассета</naim>
+<edizm>шт</edizm>
+<price>250</price>
+</tovar>
+<tovar id="146">
+<naim>VHS-C TDK EC-45HSEH Видеокассета</naim>
+<edizm>шт</edizm>
+<price>170</price>
+</tovar>
+<tovar id="147">
+<naim>Микрокассета Panasonic MC-60</naim>
+<edizm>шт</edizm>
+<price>39</price>
+</tovar>
+<tovar id="148">
+<naim>Микрокассета TDK MC-60</naim>
+<edizm>шт</edizm>
+<price>43,9</price>
+</tovar>
+</category>
+<category id="Видеокамеры">
+<tovar id="150">
+<naim>Canon DM-XM2 Видеокамера</naim>
+<edizm>шт</edizm>
+<price>70000</price>
+</tovar>
+<tovar id="151">
+<naim>JVC GZ-MG334 Видеокамера</naim>
+<edizm>шт</edizm>
+<price>18199</price>
+</tovar>
+<tovar id="152">
+<naim>JVC GZ-MG335 Видеокамера</naim>
+<edizm>шт</edizm>
+<price>18999</price>
+</tovar>
+<tovar id="153">
+<naim>JVC GZ-MG465 Видеокамера</naim>
+<edizm>шт</edizm>
+<price>22699</price>
+</tovar>
+<tovar id="154">
+<naim>JVC GZ-MG47E Видеокамера</naim>
+<edizm>шт</edizm>
+<price>17799</price>
+</tovar>
+<tovar id="155">
+<naim>Panasonic SDR-H41EE-S Видеокамера</naim>
+<edizm>шт</edizm>
+<price>17599</price>
+</tovar>
+<tovar id="156">
+<naim>Panasonic SDR-H50EE-S Видеокамера</naim>
+<edizm>шт</edizm>
+<price>20599</price>
+</tovar>
+<tovar id="157">
+<naim>Panasonic SDR-H60EE-S Видеокамера</naim>
+<edizm>шт</edizm>
+<price>19999</price>
+</tovar>
+<tovar id="158">
+<naim>Panasonic SDR-S150SD CCDВидеокамера</naim>
+<edizm>шт</edizm>
+<price>21999</price>
+</tovar>
+<tovar id="159">
+<naim>Samsung VP- D 381i Видеокамера</naim>
+<edizm>шт</edizm>
+<price>7999</price>
+</tovar>
+<tovar id="160">
+<naim>Sony DCR-HC 27E видеокамера</naim>
+<edizm>шт</edizm>
+<price>8999</price>
+</tovar>
+<tovar id="161">
+<naim>Sony DCR-SR220E видеокамера</naim>
+<edizm>шт</edizm>
+<price>27999</price>
+</tovar>
+<tovar id="162">
+<naim>Sony DCR-SX60E видеокамера</naim>
+<edizm>шт</edizm>
+<price>18999</price>
+</tovar>
+</category>
+<category id="ДИСКИ">
+<tovar id="164">
+<naim>VERBATIM DVD-R 4x 1,4GB 30min 8cm Диск</naim>
+<edizm>шт</edizm>
+<price>100</price>
+</tovar>
+<tovar id="165">
+<naim>DVD-RW TDK 8cm 30min 5штук</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="166">
+<naim>DVD+RW Verbatim 8cm 30min 5 штук</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="167">
+<naim>Fuji DVD-R 4x 8см Диски</naim>
+<edizm>шт</edizm>
+<price>100</price>
+</tovar>
+<tovar id="168">
+<naim>Samsung DVD-RW 4x Slim Диск</naim>
+<edizm>шт</edizm>
+<price>40</price>
+</tovar>
+</category>
+<category id="Диски и дискеты">
+<tovar id="170">
+<naim>Мощный очиститель пластика 250 мл</naim>
+<edizm>шт</edizm>
+<price>117</price>
+</tovar>
+<tovar id="171">
+<naim>Очиститель пластика-антистатик DIGITEX</naim>
+<edizm>шт</edizm>
+<price>70</price>
+</tovar>
+</category>
+<category id="Журналы">
+<tovar id="173">
+<naim>Журнал "STARCAR"</naim>
+<edizm>шт</edizm>
+<price>50</price>
+</tovar>
+</category>
+<category id="Зарядные устройства">
+<tovar id="175">
+<naim>Lenmar KITCRV123 (CR23) з/у + В600мАч (аккум)</naim>
+<edizm>шт</edizm>
+<price>750</price>
+</tovar>
+<tovar id="176">
+<naim>Lenmar KITCRV3 (CRV3) з/у + 3В 1350мАч (аккум)</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="177">
+<naim>AcmePower для Sony FP50/FP90 Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="178">
+<naim>AcmePower для Sony Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>1800</price>
+</tovar>
+<tovar id="179">
+<naim>AcmePower Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="180">
+<naim>Cavei CV--CH567-5 Универсальное портативное з/у</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="181">
+<naim>Cavei CV--CH6900 Универсальное портативное з/у</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="182">
+<naim>Duracell CEF14EU Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>580</price>
+</tovar>
+<tovar id="183">
+<naim>Energizer Audio +2R03 850mah Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="184">
+<naim>Energizer USB Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>750</price>
+</tovar>
+<tovar id="185">
+<naim>Energizer ДУО+2000mah Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>450</price>
+</tovar>
+<tovar id="186">
+<naim>Energizer Ультра + 2500mah Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>1150</price>
+</tovar>
+<tovar id="187">
+<naim>Energizer УльтраCompact Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="188">
+<naim>PHILIPS SCB2050+4x2100mah Зарядное устройство</naim>
+<edizm>ящ</edizm>
+<price>700</price>
+</tovar>
+<tovar id="189">
+<naim>SENAO Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="190">
+<naim>SONY BCG-34HRE4 2500mah Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>1400</price>
+</tovar>
+<tovar id="191">
+<naim>SONY BCG-34HRMF4 2700mah Зарядное устройство</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="192">
+<naim>XPA Плата для зарядного устройства</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="193">
+<naim>З/У Lenmar BCLCA3 90мин АС/12V без плат</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="194">
+<naim>З/У Lenmar SOLO XP универсальное</naim>
+<edizm>шт</edizm>
+<price>900</price>
+</tovar>
+<tovar id="195">
+<naim>З/У Lenmar MSCAA З/устройство.</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="196">
+<naim>З/У Lenmar MSCAA+4АА 2300mAh акк. З/устройство.</naim>
+<edizm>шт</edizm>
+<price>1800</price>
+</tovar>
+<tovar id="197">
+<naim>З/У Lenmar PRO 116R</naim>
+<edizm>шт</edizm>
+<price>240</price>
+</tovar>
+<tovar id="198">
+<naim>З/У Lenmar PRO 116R-2 2шт</naim>
+<edizm>шт</edizm>
+<price>450</price>
+</tovar>
+<tovar id="199">
+<naim>З/У Lenmar PRO 116R-23 2шт</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="200">
+<naim>З/У Lenmar PRO 120-20-2/220v 2000mah</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="201">
+<naim>З/У Lenmar PRO 120-23/220v 2300mah</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="202">
+<naim>З/У Lenmar PRO 120/220v+4 2000mah</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="203">
+<naim>З/У Lenmar PRO 120В(з/у 220В для АА и ААА)-</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="204">
+<naim>З/У Lenmar PRO 23 (12-15 час з/у 2000mah</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="205">
+<naim>З/У Lenmar PRO 32-B ( 2час з/у 220/12В)</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="206">
+<naim>З/У Lenmar PRO 32-B ( 2час з/у 220/12В)</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="207">
+<naim>З/У Lenmar PRO 32(2час з/у 220/12В+4ААакк,2000mah</naim>
+<edizm>шт</edizm>
+<price>1300</price>
+</tovar>
+<tovar id="208">
+<naim>З/У Lenmar PRO 32(2час з/у 220/12В+4ААакк,2500mah</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="209">
+<naim>З/У Lenmar PRO 541 (з/у 5in1)</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="210">
+<naim>З/У Lenmar PRO 712+4аккум. 2500mah</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="211">
+<naim>З/У Lenmar PRO290NR</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="212">
+<naim>З/У Lenmar PRO290R(6час +4АА2500mAh)</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="213">
+<naim>З/У Lenmar PRO30R</naim>
+<edizm>шт</edizm>
+<price>1400</price>
+</tovar>
+<tovar id="214">
+<naim>З/У Lenmar PRO66RB (1час.зарядное устройство)</naim>
+<edizm>шт</edizm>
+<price>980</price>
+</tovar>
+<tovar id="215">
+<naim>З/У Lenmar PRO88B</naim>
+<edizm>шт</edizm>
+<price>666</price>
+</tovar>
+<tovar id="216">
+<naim>З/У Lenmar PRO99RB(6час, з/у)</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="217">
+<naim>З/У VARTA 57061+1900mAh</naim>
+<edizm>шт</edizm>
+<price>792</price>
+</tovar>
+<tovar id="218">
+<naim>З/У VARTA 57072</naim>
+<edizm>шт</edizm>
+<price>880</price>
+</tovar>
+<tovar id="219">
+<naim>З/У VARTA 57072+2700mah</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+</category>
+<category id="Карты памяти">
+<tovar id="221">
+<naim>Compact Flash 1Gb KIngston 24x Карта памяти</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="222">
+<naim>Compact Flash 2Gb Transcend 133x Карта памяти</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="223">
+<naim>Compact Flash 4Gb Kingston Карта памяти</naim>
+<edizm>шт</edizm>
+<price>1600</price>
+</tovar>
+<tovar id="224">
+<naim>Compact Flash 8Gb 300х Transcend Карта памяти</naim>
+<edizm>шт</edizm>
+<price>4000</price>
+</tovar>
+<tovar id="225">
+<naim>Compact Flash 8Gb Kingston 133x Elite Карта памяти</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="226">
+<naim>Memori Stick PRO 128MB SANDISK Карта памяти</naim>
+<edizm>шт</edizm>
+<price>250</price>
+</tovar>
+<tovar id="227">
+<naim>Memori Stick PRO 256MB Soni Карта памяти</naim>
+<edizm>шт</edizm>
+<price>350</price>
+</tovar>
+<tovar id="228">
+<naim>Memori Stick PRO 512MB Soni Карта памяти</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="229">
+<naim>Memori Stick Pro Duo 1GB MSK Sony Карта памяти</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="230">
+<naim>Memori Stick Pro Duo 1GB Silicon Powe Карта памяти</naim>
+<edizm>шт</edizm>
+<price>900</price>
+</tovar>
+<tovar id="231">
+<naim>Memori Stick Pro Duo 2GB MSK Sony Карта памяти</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="232">
+<naim>Memori Stick Pro Duo 2GB Silicon Powe Карта памяти</naim>
+<edizm>шт</edizm>
+<price>1300</price>
+</tovar>
+<tovar id="233">
+<naim>Memori Stick Pro Duo 4GB MSK Sony Карта памяти</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="234">
+<naim>Memori Stick Pro Duo 4GB Silicon Powe Карта памяти</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="235">
+<naim>SD 1Gb Kingston Карта памяти</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="236">
+<naim>SD 1GB Transcend 45х Карта памяти</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="237">
+<naim>SD 2GB Kingston Карта памяти</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="238">
+<naim>SD 2GB Silicon Power Карта памяти</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="239">
+<naim>SD 4GB Kingston Карта памяти</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="240">
+<naim>SD 4GB Silicon Power Карта памяти</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="241">
+<naim>XD-Picture 1GB type M OLYMPUS Карта памяти</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="242">
+<naim>XD-Picture 256MB Kodak Карта памяти</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="243">
+<naim>XD-Picture 2GB type M OLIMPUS Карта памяти</naim>
+<edizm>шт</edizm>
+<price>1300</price>
+</tovar>
+<tovar id="244">
+<naim>XD-Picture 512 MB Olimpus Карта памяти</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="245">
+<naim>Карт-Ридер digilife 23-1 USB2.0</naim>
+<edizm>ящ</edizm>
+<price>400</price>
+</tovar>
+<tovar id="246">
+<naim>Сменный флэш-диск 1Gb Gooddrive</naim>
+<edizm>шт</edizm>
+<price>350</price>
+</tovar>
+<tovar id="247">
+<naim>Сменный флэш-диск 1Gb Gooddrive Ароматизированная</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="248">
+<naim>Сменный флэш-диск 2Gb</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="249">
+<naim>Сменный флэш-диск 2Gb Gooddrive</naim>
+<edizm>шт</edizm>
+<price>550</price>
+</tovar>
+<tovar id="250">
+<naim>Сменный флэш-диск 2Gb Gooddrive Ароматизированная</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="251">
+<naim>Сменный флэш-диск 4Gb</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="252">
+<naim>Сменный флэш-диск 4Gb Gooddrive</naim>
+<edizm>шт</edizm>
+<price>850</price>
+</tovar>
+<tovar id="253">
+<naim>Сменный флэш-диск 4gb kingston 40x</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="254">
+<naim>Сменный флэш-диск 8Gb</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+</category>
+<category id="Кофры">
+<tovar id="256">
+<naim>AVALON DF11 Чехол</naim>
+<edizm>шт</edizm>
+<price>289</price>
+</tovar>
+<tovar id="257">
+<naim>CaseLogic DCB-66 Кофр</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="258">
+<naim>LowePro Slider 20 Кофр</naim>
+<edizm>шт</edizm>
+<price>420</price>
+</tovar>
+<tovar id="259">
+<naim>LowePro Slider 30 Кофр</naim>
+<edizm>шт</edizm>
+<price>315</price>
+</tovar>
+<tovar id="260">
+<naim>LowePro Elit AW</naim>
+<edizm>шт</edizm>
+<price>4000</price>
+</tovar>
+<tovar id="261">
+<naim>LowePro Mini Trekker AW Рюкзак</naim>
+<edizm>шт</edizm>
+<price>3700</price>
+</tovar>
+<tovar id="262">
+<naim>LowePro vertex 100 AW Сумка</naim>
+<edizm>шт</edizm>
+<price>6000</price>
+</tovar>
+<tovar id="263">
+<naim>4010 Blue Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>460</price>
+</tovar>
+<tovar id="264">
+<naim>4010 Green Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>460</price>
+</tovar>
+<tovar id="265">
+<naim>4010 Orange Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>460</price>
+</tovar>
+<tovar id="266">
+<naim>Acropolis TP-20 Чехол кожаный для фотоаппарата</naim>
+<edizm>шт</edizm>
+<price>602</price>
+</tovar>
+<tovar id="267">
+<naim>Acropolis АТ-10 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>390</price>
+</tovar>
+<tovar id="268">
+<naim>Acropolis АТ-20 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>430</price>
+</tovar>
+<tovar id="269">
+<naim>Acropolis АТ-30 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>520</price>
+</tovar>
+<tovar id="270">
+<naim>Acropolis БК-1 Чехол для фотоаппарата черный</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="271">
+<naim>Acropolis КМ-40 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>480</price>
+</tovar>
+<tovar id="272">
+<naim>Acropolis КМ-40 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>480</price>
+</tovar>
+<tovar id="273">
+<naim>Acropolis КМч-1 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>245</price>
+</tovar>
+<tovar id="274">
+<naim>Acropolis КМч-20 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="275">
+<naim>Acropolis КМч-40 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>480</price>
+</tovar>
+<tovar id="276">
+<naim>Acropolis КМч-50 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>666</price>
+</tovar>
+<tovar id="277">
+<naim>Acropolis КМч-60 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>770</price>
+</tovar>
+<tovar id="278">
+<naim>Acropolis СВ-12н сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>520</price>
+</tovar>
+<tovar id="279">
+<naim>Acropolis СВ-18 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>416</price>
+</tovar>
+<tovar id="280">
+<naim>Acropolis СВ-20 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>520</price>
+</tovar>
+<tovar id="281">
+<naim>Acropolis СВ-3 сумка для видеокамеры</naim>
+<edizm>шт</edizm>
+<price>450</price>
+</tovar>
+<tovar id="282">
+<naim>Acropolis ТР-10 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>760</price>
+</tovar>
+<tovar id="283">
+<naim>Acropolis ТР-20 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="284">
+<naim>Acropolis ТР-30 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>510</price>
+</tovar>
+<tovar id="285">
+<naim>Acropolis ТР-40 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>930</price>
+</tovar>
+<tovar id="286">
+<naim>Acropolis ТС-10 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="287">
+<naim>Acropolis ТС-2 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>260</price>
+</tovar>
+<tovar id="288">
+<naim>Acropolis ТС-3 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>260</price>
+</tovar>
+<tovar id="289">
+<naim>Acropolis ТС-30 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>666</price>
+</tovar>
+<tovar id="290">
+<naim>Acropolis ТС-4 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="291">
+<naim>Acropolis ТС-40 термозащитный футляр для ф-та</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="292">
+<naim>Acropolis Фб-3 75*90 футляр для фотообъектива</naim>
+<edizm>шт</edizm>
+<price>230</price>
+</tovar>
+<tovar id="293">
+<naim>Acropolis Фб-4 90*210 футляр для фотообъектива</naim>
+<edizm>шт</edizm>
+<price>230</price>
+</tovar>
+<tovar id="294">
+<naim>Acropolis Фб-5 110*150 футляр для фотообъектива</naim>
+<edizm>шт</edizm>
+<price>230</price>
+</tovar>
+<tovar id="295">
+<naim>Acropolis ФТ-1 Чехол для фотоаппарата</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="296">
+<naim>Acropolis ФТ-16 Чехол для фотоаппарата синий</naim>
+<edizm>шт</edizm>
+<price>170</price>
+</tovar>
+<tovar id="297">
+<naim>Acropolis ФТ-17 Чехол для фотоаппарата</naim>
+<edizm>шт</edizm>
+<price>230</price>
+</tovar>
+<tovar id="298">
+<naim>Acropolis ФТ-2кцЧехол кожаный для фотоаппарата</naim>
+<edizm>шт</edizm>
+<price>517</price>
+</tovar>
+<tovar id="299">
+<naim>Acropolis ФТ-3КмЧехол кожаный для фотоаппарата</naim>
+<edizm>шт</edizm>
+<price>348</price>
+</tovar>
+<tovar id="300">
+<naim>Acropolis ФТ-6ка Чехол кожаный для фотоаппарата</naim>
+<edizm>шт</edizm>
+<price>413</price>
+</tovar>
+<tovar id="301">
+<naim>Acropolis ФТ-9Чехол кожаный для фотоаппарата</naim>
+<edizm>шт</edizm>
+<price>159</price>
+</tovar>
+<tovar id="302">
+<naim>Acropolis Цс-03 Футляр для цифровых фотокамер</naim>
+<edizm>шт</edizm>
+<price>230</price>
+</tovar>
+<tovar id="303">
+<naim>Acropolis Цс-04 Футляр для цифровых фотокамер</naim>
+<edizm>шт</edizm>
+<price>370</price>
+</tovar>
+<tovar id="304">
+<naim>Acropolis Цс-6Футляр для цифровых фотокамер</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="305">
+<naim>AVALON Bridge 20 Кофр</naim>
+<edizm>шт</edizm>
+<price>350</price>
+</tovar>
+<tovar id="306">
+<naim>AVALON Bridge 30 Кофр</naim>
+<edizm>шт</edizm>
+<price>360</price>
+</tovar>
+<tovar id="307">
+<naim>AVALON DCC80 Кофр</naim>
+<edizm>шт</edizm>
+<price>440</price>
+</tovar>
+<tovar id="308">
+<naim>AVALON Micro 2 Кофр</naim>
+<edizm>шт</edizm>
+<price>330</price>
+</tovar>
+<tovar id="309">
+<naim>AVALON Micro S Кофр</naim>
+<edizm>шт</edizm>
+<price>280</price>
+</tovar>
+<tovar id="310">
+<naim>AVALON V-12 Чехол</naim>
+<edizm>шт</edizm>
+<price>580</price>
+</tovar>
+<tovar id="311">
+<naim>AVALON V-13 Чехол</naim>
+<edizm>шт</edizm>
+<price>670</price>
+</tovar>
+<tovar id="312">
+<naim>AVALON V-14 Чехол</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="313">
+<naim>AVALON V-15 Чехол</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="314">
+<naim>BENS PIZZA М 001(BZM-001) Кофр</naim>
+<edizm>шт</edizm>
+<price>1310</price>
+</tovar>
+<tovar id="315">
+<naim>BENS PIZZA (BZM-007) Кофр</naim>
+<edizm>шт</edizm>
+<price>1310</price>
+</tovar>
+<tovar id="316">
+<naim>BENS PIZZA (BZM-008) Кофр</naim>
+<edizm>шт</edizm>
+<price>1310</price>
+</tovar>
+<tovar id="317">
+<naim>CAVEI CV-BG M6850 Кейс для видео и фототехники</naim>
+<edizm>шт</edizm>
+<price>432</price>
+</tovar>
+<tovar id="318">
+<naim>CAVEI CV-BG M6860 Кейс для видео и фототехники</naim>
+<edizm>шт</edizm>
+<price>284</price>
+</tovar>
+<tovar id="319">
+<naim>CAVEI CV-BG M6890 Кейс для видео и фототехники</naim>
+<edizm>шт</edizm>
+<price>284</price>
+</tovar>
+<tovar id="320">
+<naim>DELSY XEO D 10 BB сумка</naim>
+<edizm>шт</edizm>
+<price>325</price>
+</tovar>
+<tovar id="321">
+<naim>DELSY XEO D 30 BB сумка</naim>
+<edizm>шт</edizm>
+<price>350</price>
+</tovar>
+<tovar id="322">
+<naim>DELSY XEO D 40 BBсумка</naim>
+<edizm>шт</edizm>
+<price>436</price>
+</tovar>
+<tovar id="323">
+<naim>DELSY XEO D 40 сумка</naim>
+<edizm>шт</edizm>
+<price>436</price>
+</tovar>
+<tovar id="324">
+<naim>DELSY XEO D 50 BB сумка</naim>
+<edizm>шт</edizm>
+<price>445</price>
+</tovar>
+<tovar id="325">
+<naim>DELSY XEO D 50 BG сумка</naim>
+<edizm>шт</edizm>
+<price>445</price>
+</tovar>
+<tovar id="326">
+<naim>KATA DR-465WP рюкзак</naim>
+<edizm>шт</edizm>
+<price>3300</price>
+</tovar>
+<tovar id="327">
+<naim>OPTIO X Чехол</naim>
+<edizm>шт</edizm>
+<price>187</price>
+</tovar>
+<tovar id="328">
+<naim>PORT Case 3310 B Сумка</naim>
+<edizm>шт</edizm>
+<price>360</price>
+</tovar>
+<tovar id="329">
+<naim>PORT Case 3548</naim>
+<edizm>шт</edizm>
+<price>135</price>
+</tovar>
+<tovar id="330">
+<naim>PORT Case SWE1 Сумка</naim>
+<edizm>шт</edizm>
+<price>245</price>
+</tovar>
+<tovar id="331">
+<naim>Vanguard 32 кофр</naim>
+<edizm>шт</edizm>
+<price>3000</price>
+</tovar>
+<tovar id="332">
+<naim>Кофр Sony F717 LCS FX</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+</category>
+<category id="Матовая бумага для принтера">
+<tovar id="334">
+<naim>Kodak Photo Paper Kit(Бумага+картридж,160л,)</naim>
+<edizm>шт</edizm>
+<price>1930</price>
+</tovar>
+<tovar id="335">
+<naim>Бумага SVM-F120P для принтера Sony ВЗЗ-АЗ30/ВPP-FP</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+</category>
+<category id="Наушники">
+<tovar id="337">
+<naim>SONY MDR-W08L Наушники</naim>
+<edizm>шт</edizm>
+<price>320</price>
+</tovar>
+<tovar id="338">
+<naim>SONY MDR-W24V Наушники</naim>
+<edizm>шт</edizm>
+<price>430</price>
+</tovar>
+<tovar id="339">
+<naim>Thomson 155 HED Наушники</naim>
+<edizm>шт</edizm>
+<price>250</price>
+</tovar>
+</category>
+<category id="Объективы">
+<tovar id="341">
+<naim>Canon EF 28-105 II USM F 3.5-4.5 Объектив</naim>
+<edizm>шт</edizm>
+<price>13000</price>
+</tovar>
+<tovar id="342">
+<naim>Canon EF 50 F 1.8 II Объектив</naim>
+<edizm>шт</edizm>
+<price>5500</price>
+</tovar>
+<tovar id="343">
+<naim>Nikorr AF 70-300, VR IF ED бъектив</naim>
+<edizm>шт</edizm>
+<price>36000</price>
+</tovar>
+<tovar id="344">
+<naim>Nikorr AF S 18-105 VR oбъектив</naim>
+<edizm>шт</edizm>
+<price>16000</price>
+</tovar>
+<tovar id="345">
+<naim>Nikorr AF S 18-55 oбъектив</naim>
+<edizm>шт</edizm>
+<price>7000</price>
+</tovar>
+<tovar id="346">
+<naim>Nikorr AF-S DX18-200 F3.5-5.6 G IF- ED бъектив</naim>
+<edizm>шт</edizm>
+<price>38000</price>
+</tovar>
+<tovar id="347">
+<naim>Rikenon 35-70mm F3.4-4.5 Macro Объектив</naim>
+<edizm>шт</edizm>
+<price>3000</price>
+</tovar>
+<tovar id="348">
+<naim>Soligor AF Zoom 28-80 mm MC F 3.5-5.6 объектив</naim>
+<edizm>шт</edizm>
+<price>3900</price>
+</tovar>
+<tovar id="349">
+<naim>TAMRON AF 18-200/3.5-6.3 LD DII NIKON Ф/объектив</naim>
+<edizm>шт</edizm>
+<price>13000</price>
+</tovar>
+<tovar id="350">
+<naim>конвертер Olympus IS-Lens E-1.3XH.Q</naim>
+<edizm>шт</edizm>
+<price>2625</price>
+</tovar>
+<tovar id="351">
+<naim>конвертер Olympus C-210</naim>
+<edizm>шт</edizm>
+<price>2415</price>
+</tovar>
+<tovar id="352">
+<naim>объектив CANON EF 65</naim>
+<edizm>шт</edizm>
+<price>35000</price>
+</tovar>
+<tovar id="353">
+<naim>объектив CANON EF 70-300 IS USM</naim>
+<edizm>шт</edizm>
+<price>28000</price>
+</tovar>
+<tovar id="354">
+<naim>объектив CANON EF 75-300/4-5,6 III USM</naim>
+<edizm>шт</edizm>
+<price>10000</price>
+</tovar>
+<tovar id="355">
+<naim>объектив CANON EF-S 17-85 F4-5.6 IS USM</naim>
+<edizm>шт</edizm>
+<price>21000</price>
+</tovar>
+<tovar id="356">
+<naim>объектив CANON EF-S 55-250 F4-5.6 IS USM</naim>
+<edizm>шт</edizm>
+<price>16000</price>
+</tovar>
+<tovar id="357">
+<naim>объектив CANON EF-S 70-200 F 2.8 L USM</naim>
+<edizm>шт</edizm>
+<price>53000</price>
+</tovar>
+</category>
+<category id="Профоборудование">
+<tovar id="359">
+<naim>Lumiguest ProMax LQ-873D</naim>
+<edizm>шт</edizm>
+<price>1570</price>
+</tovar>
+<tovar id="360">
+<naim>Зонт отражатель URN-32SW Falkon</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="361">
+<naim>Зонт отражатель URN-48GW Falkon</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="362">
+<naim>Стойка для света LS-2440</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+</category>
+<category id="РАЗНОЕ">
+<tovar id="364">
+<naim>GPS-автонавигатор Garmin Nuvi 215</naim>
+<edizm>шт</edizm>
+<price>11199</price>
+</tovar>
+<tovar id="365">
+<naim>GPS-автонавигатор Garmin Nuvi 215W</naim>
+<edizm>шт</edizm>
+<price>13499</price>
+</tovar>
+<tovar id="366">
+<naim>GPS-автонавигатор Garmin Nuvi 710</naim>
+<edizm>шт</edizm>
+<price>14999</price>
+</tovar>
+<tovar id="367">
+<naim>PhotoSol Sensor Swab 2 щёточки для чистки матрицы</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="368">
+<naim>Адаптер ANSMANN DIGI универсал сетевой ATPS</naim>
+<edizm>шт</edizm>
+<price>1037</price>
+</tovar>
+<tovar id="369">
+<naim>Адаптер Memory Stick/CF Transcend</naim>
+<edizm>шт</edizm>
+<price>642,9</price>
+</tovar>
+<tovar id="370">
+<naim>Адаптер SD/MMC/SM/MS PRO Transcend 5-B-1</naim>
+<edizm>шт</edizm>
+<price>634</price>
+</tovar>
+<tovar id="371">
+<naim>Бленда Canon EW-73B для EF-S 17-85</naim>
+<edizm>шт</edizm>
+<price>1970</price>
+</tovar>
+<tovar id="372">
+<naim>Видеолампа SONY HVL-20DW2</naim>
+<edizm>шт</edizm>
+<price>4000</price>
+</tovar>
+<tovar id="373">
+<naim>Видеолампа SONY HVL-S3D</naim>
+<edizm>шт</edizm>
+<price>1370</price>
+</tovar>
+<tovar id="374">
+<naim>Интернет карта 5 часов</naim>
+<edizm>шт</edizm>
+<price>135</price>
+</tovar>
+<tovar id="375">
+<naim>Карандаш для очистки оптики CELLKLEAR</naim>
+<edizm>шт</edizm>
+<price>240</price>
+</tovar>
+<tovar id="376">
+<naim>Карандаш для очистки оптики DigiKLEAR</naim>
+<edizm>шт</edizm>
+<price>392</price>
+</tovar>
+<tovar id="377">
+<naim>Карандаш для очистки оптики LENSPEN MicroPro MCP-1</naim>
+<edizm>шт</edizm>
+<price>350</price>
+</tovar>
+<tovar id="378">
+<naim>Карандаш для очистки оптики MINIPRO II</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="379">
+<naim>Карт-ридер 27-IN-1 USB2</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="380">
+<naim>Карт-ридер Transcend 6-in-1</naim>
+<edizm>шт</edizm>
+<price>599</price>
+</tovar>
+<tovar id="381">
+<naim>картридер Всё в одном</naim>
+<edizm>шт</edizm>
+<price>787</price>
+</tovar>
+<tovar id="382">
+<naim>Комплект для чистки матрицы</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="383">
+<naim>крышка для объектива CANON Lens Cap E-58 U</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="384">
+<naim>Набор для очистки оптики Vermata</naim>
+<edizm>шт</edizm>
+<price>150</price>
+</tovar>
+<tovar id="385">
+<naim>Плёнка защитная Fasson 1.5/1.8/2.5</naim>
+<edizm>шт</edizm>
+<price>61</price>
+</tovar>
+<tovar id="386">
+<naim>Салфетки влажные для экранов банка 40шт</naim>
+<edizm>шт</edizm>
+<price>150</price>
+</tovar>
+<tovar id="387">
+<naim>Салфетки чистящие А-90/07</naim>
+<edizm>шт</edizm>
+<price>50</price>
+</tovar>
+<tovar id="388">
+<naim>Сетевой адаптер Olympus D-7 AC</naim>
+<edizm>шт</edizm>
+<price>1573</price>
+</tovar>
+</category>
+<category id="сертификаты">
+<tovar id="390">
+<naim>сертификат 1000</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="391">
+<naim>сертификат 2000</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="392">
+<naim>сертификат 3000</naim>
+<edizm>шт</edizm>
+<price>3000</price>
+</tovar>
+<tovar id="393">
+<naim>сертификат 500</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="394">
+<naim>сертификат 5000</naim>
+<edizm>шт</edizm>
+<price>5000</price>
+</tovar>
+</category>
+<category id="Фонари">
+<tovar id="396">
+<naim>DURACELL MULTI 15039133</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="397">
+<naim>Duralite ML-984 Фонарь</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="398">
+<naim>ERA B10 Фонарь</naim>
+<edizm>шт</edizm>
+<price>60</price>
+</tovar>
+<tovar id="399">
+<naim>ERA ESL-02Фонарь</naim>
+<edizm>шт</edizm>
+<price>450</price>
+</tovar>
+<tovar id="400">
+<naim>ERA ESL-04 Фонарь</naim>
+<edizm>шт</edizm>
+<price>335</price>
+</tovar>
+<tovar id="401">
+<naim>ERA ESL-04-5 Фонарь</naim>
+<edizm>шт</edizm>
+<price>360</price>
+</tovar>
+<tovar id="402">
+<naim>ERA ESL-06 Фонарь</naim>
+<edizm>шт</edizm>
+<price>570</price>
+</tovar>
+<tovar id="403">
+<naim>ERA ESL-07 Фонарь</naim>
+<edizm>шт</edizm>
+<price>450</price>
+</tovar>
+<tovar id="404">
+<naim>ERA ESL-19 Фонарь</naim>
+<edizm>шт</edizm>
+<price>295</price>
+</tovar>
+<tovar id="405">
+<naim>ERA G5 Фонарь</naim>
+<edizm>шт</edizm>
+<price>110</price>
+</tovar>
+<tovar id="406">
+<naim>ERA G52 Фонарь</naim>
+<edizm>шт</edizm>
+<price>90</price>
+</tovar>
+<tovar id="407">
+<naim>ERA M1 Фонарь</naim>
+<edizm>шт</edizm>
+<price>108</price>
+</tovar>
+<tovar id="408">
+<naim>ERA R12 Фонарь</naim>
+<edizm>шт</edizm>
+<price>54</price>
+</tovar>
+<tovar id="409">
+<naim>ERA R7 Фонарь</naim>
+<edizm>шт</edizm>
+<price>44</price>
+</tovar>
+<tovar id="410">
+<naim>ERA SD12 Фонарь</naim>
+<edizm>шт</edizm>
+<price>131</price>
+</tovar>
+<tovar id="411">
+<naim>ERA SDA32 Фонарь</naim>
+<edizm>шт</edizm>
+<price>90</price>
+</tovar>
+<tovar id="412">
+<naim>Focus 722 подарочный набор</naim>
+<edizm>шт</edizm>
+<price>112</price>
+</tovar>
+<tovar id="413">
+<naim>Focus 740 фонарь-пассатижи</naim>
+<edizm>шт</edizm>
+<price>161</price>
+</tovar>
+<tovar id="414">
+<naim>JOHNLITE 2268</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="415">
+<naim>Osram Halimax-s ЛупаФонарь</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="416">
+<naim>Philips 06-121 Фонарь</naim>
+<edizm>шт</edizm>
+<price>250</price>
+</tovar>
+<tovar id="417">
+<naim>Лампа GP KPR</naim>
+<edizm>шт</edizm>
+<price>3</price>
+</tovar>
+<tovar id="418">
+<naim>Указка лазерная 3 в 1</naim>
+<edizm>шт</edizm>
+<price>80</price>
+</tovar>
+<tovar id="419">
+<naim>Указка лазерная SY-2117</naim>
+<edizm>шт</edizm>
+<price>80</price>
+</tovar>
+<tovar id="420">
+<naim>Электроника ФКВ-16 Фонарь</naim>
+<edizm>шт</edizm>
+<price>47</price>
+</tovar>
+</category>
+<category id="Фотоаксессуары">
+<tovar id="422">
+<naim>BETWIX Lens cap 25 mm Крышка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="423">
+<naim>BETWIX Lens cap 30 mm Крышка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="424">
+<naim>BETWIX Lens cap 37 mm Крышка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="425">
+<naim>BETWIX Lens cap 43 mm Крышка</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="426">
+<naim>Rubber Lenshood 49mm Бленда резиновая</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="427">
+<naim>Rubber Lenshood 62 mm бленда резиновая</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="428">
+<naim>Rubber Lenshood 72mm KAISER Бленда резиновая</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="429">
+<naim>Rubber Soligor 55mm Бленда резиновая</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="430">
+<naim>Rubber Soligor 72mm Бленда резиновая</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="431">
+<naim>Snap-on Lens Cap 55mm Крышка на объектив</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="432">
+<naim>Snap-on Lens Cap 67mm Крышка на объектив</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="433">
+<naim>Snap-on Lens Cap Kaiser 62mm Крышка на объектив</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="434">
+<naim>Батарейный блок Canon BG-E1</naim>
+<edizm>шт</edizm>
+<price>3806</price>
+</tovar>
+<tovar id="435">
+<naim>Батарейный блок Canon ВР-200</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="436">
+<naim>бленда ET-64 II</naim>
+<edizm>шт</edizm>
+<price>1599</price>
+</tovar>
+<tovar id="437">
+<naim>Насадка Mennon WBLC-52</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+</category>
+<category id="Фотоаппараты">
+<tovar id="439">
+<naim>Nikon F75 kit 28-100 Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>10000</price>
+</tovar>
+<tovar id="440">
+<naim>Rekam QUEEN QD Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>630</price>
+</tovar>
+<tovar id="441">
+<naim>Rekam AF 100 QD Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="442">
+<naim>Rekam AF 50 QD Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="443">
+<naim>Rekam Agua-Fun Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>945</price>
+</tovar>
+<tovar id="444">
+<naim>Rekam F201 S QD Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="445">
+<naim>Rekam Mega 20 QD Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="446">
+<naim>Rekam NEO QD Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="447">
+<naim>Rekam NEO S QD Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>910</price>
+</tovar>
+<tovar id="448">
+<naim>Skina 555 Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>450</price>
+</tovar>
+<tovar id="449">
+<naim>Skina 666 Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>450</price>
+</tovar>
+<tovar id="450">
+<naim>Skina Techno 6 Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+</category>
+<category id="Фотовспышки">
+<tovar id="452">
+<naim>Canon Speedlite 580 EX II Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>25000</price>
+</tovar>
+<tovar id="453">
+<naim>EXAKTA 300 AF Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>2151</price>
+</tovar>
+<tovar id="454">
+<naim>EXAKTA 400 AF Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>3000</price>
+</tovar>
+<tovar id="455">
+<naim>METZ 32MZ 3 Вспышка</naim>
+<edizm>шт</edizm>
+<price>5500</price>
+</tovar>
+<tovar id="456">
+<naim>METZ 54AF canon Вспышка</naim>
+<edizm>шт</edizm>
+<price>10000</price>
+</tovar>
+<tovar id="457">
+<naim>METZ 54AF-1N Вспышка</naim>
+<edizm>шт</edizm>
+<price>13670</price>
+</tovar>
+<tovar id="458">
+<naim>METZ 58AF-1N Вспышка</naim>
+<edizm>шт</edizm>
+<price>13000</price>
+</tovar>
+<tovar id="459">
+<naim>Minolta Maxum 2800AF Вспышка</naim>
+<edizm>шт</edizm>
+<price>2500</price>
+</tovar>
+<tovar id="460">
+<naim>Nikon SPEEDLIGHT SB-400AF Вспышка</naim>
+<edizm>шт</edizm>
+<price>8000</price>
+</tovar>
+<tovar id="461">
+<naim>Nikon SPEEDLIGHT SB-600AF Вспышка</naim>
+<edizm>шт</edizm>
+<price>13000</price>
+</tovar>
+<tovar id="462">
+<naim>NISSIN Di-622 Canon Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>7500</price>
+</tovar>
+<tovar id="463">
+<naim>Sigma FLASH 530DG Su ET TL II Фотовспышка</naim>
+<edizm>ящ</edizm>
+<price>10000</price>
+</tovar>
+<tovar id="464">
+<naim>Unomat 20 В auto Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="465">
+<naim>Unomat 20 В Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="466">
+<naim>Unomat 24 В Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="467">
+<naim>Unomat TOP Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="468">
+<naim>Unomat V450 Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="469">
+<naim>Vivitar 285 HV Фотовспышка</naim>
+<edizm>шт</edizm>
+<price>3500</price>
+</tovar>
+<tovar id="470">
+<naim>Вспышка Metz 54 Z 4. AF (Nikon)</naim>
+<edizm>шт</edizm>
+<price>13670</price>
+</tovar>
+</category>
+<category id="Фотопленка">
+<tovar id="472">
+<naim>"Fomapan" ч/б 100/36 Фотопленка</naim>
+<edizm>шт</edizm>
+<price>70</price>
+</tovar>
+<tovar id="473">
+<naim>"Fomapan" ч/б 200/36 Фотопленка</naim>
+<edizm>шт</edizm>
+<price>50</price>
+</tovar>
+<tovar id="474">
+<naim>"Fortepan" ч/б 400/36 Фотопленка</naim>
+<edizm>шт</edizm>
+<price>50</price>
+</tovar>
+<tovar id="475">
+<naim>"Lucky" ч/б 60 м. Фотопленка</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="476">
+<naim>Agfa VISTA 100/12 уценка</naim>
+<edizm>шт</edizm>
+<price>15</price>
+</tovar>
+<tovar id="477">
+<naim>Agfa VISTA 100/24 уценка</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="478">
+<naim>CENTURIA DNP 200/24</naim>
+<edizm>шт</edizm>
+<price>71</price>
+</tovar>
+<tovar id="479">
+<naim>CENTURIA DNP 200/36</naim>
+<edizm>шт</edizm>
+<price>80</price>
+</tovar>
+<tovar id="480">
+<naim>Fuji COLOR 100/24 уценка</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="481">
+<naim>Fuji COLOR 200/24</naim>
+<edizm>шт</edizm>
+<price>66</price>
+</tovar>
+<tovar id="482">
+<naim>Fuji COLOR 200/36</naim>
+<edizm>шт</edizm>
+<price>75</price>
+</tovar>
+<tovar id="483">
+<naim>Fuji REALA 100/36 Фотопленка</naim>
+<edizm>шт</edizm>
+<price>100</price>
+</tovar>
+<tovar id="484">
+<naim>Fuji superia 200/12</naim>
+<edizm>шт</edizm>
+<price>66</price>
+</tovar>
+<tovar id="485">
+<naim>Fuji superia 200/24</naim>
+<edizm>шт</edizm>
+<price>82</price>
+</tovar>
+<tovar id="486">
+<naim>Fuji superia 200/36</naim>
+<edizm>шт</edizm>
+<price>94</price>
+</tovar>
+<tovar id="487">
+<naim>Fuji superia 400/12</naim>
+<edizm>шт</edizm>
+<price>62</price>
+</tovar>
+<tovar id="488">
+<naim>Fuji superia 400/12 уценка</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="489">
+<naim>Fuji superia 400/24</naim>
+<edizm>шт</edizm>
+<price>91</price>
+</tovar>
+<tovar id="490">
+<naim>Fuji superia 400/36</naim>
+<edizm>шт</edizm>
+<price>108</price>
+</tovar>
+<tovar id="491">
+<naim>Fujichrome sensia 100F/135 Фотоплёнка</naim>
+<edizm>шт</edizm>
+<price>240</price>
+</tovar>
+<tovar id="492">
+<naim>Fujichrome VELVIA 100F/135 Фотоплёнка</naim>
+<edizm>шт</edizm>
+<price>315</price>
+</tovar>
+<tovar id="493">
+<naim>Kodak Ektachrome EPD Широкая</naim>
+<edizm>шт</edizm>
+<price>99</price>
+</tovar>
+<tovar id="494">
+<naim>Kodak COLOR 200/12</naim>
+<edizm>шт</edizm>
+<price>63</price>
+</tovar>
+<tovar id="495">
+<naim>Kodak COLOR 200/24</naim>
+<edizm>шт</edizm>
+<price>93</price>
+</tovar>
+<tovar id="496">
+<naim>Kodak COLOR 200/36</naim>
+<edizm>шт</edizm>
+<price>103</price>
+</tovar>
+<tovar id="497">
+<naim>Kodak GOLD 100/12 уценка</naim>
+<edizm>шт</edizm>
+<price>15</price>
+</tovar>
+<tovar id="498">
+<naim>Kodak GOLD 200/12</naim>
+<edizm>шт</edizm>
+<price>30</price>
+</tovar>
+<tovar id="499">
+<naim>Kodak GOLD 200/24</naim>
+<edizm>шт</edizm>
+<price>103</price>
+</tovar>
+<tovar id="500">
+<naim>Kodak GOLD 200/36</naim>
+<edizm>шт</edizm>
+<price>129</price>
+</tovar>
+<tovar id="501">
+<naim>Kodak GOLD 400/12</naim>
+<edizm>шт</edizm>
+<price>69</price>
+</tovar>
+<tovar id="502">
+<naim>Kodak GOLD 400/36</naim>
+<edizm>шт</edizm>
+<price>123</price>
+</tovar>
+<tovar id="503">
+<naim>Kodak GOLD 800/36</naim>
+<edizm>шт</edizm>
+<price>40</price>
+</tovar>
+<tovar id="504">
+<naim>Kodak Profoto 100/36 Фотопленка</naim>
+<edizm>шт</edizm>
+<price>100</price>
+</tovar>
+<tovar id="505">
+<naim>Kodak ROYAL SUPRA 800 135-36 Фотоплёнка</naim>
+<edizm>шт</edizm>
+<price>115</price>
+</tovar>
+<tovar id="506">
+<naim>Konica CENTURIA SUPER 100/12 уценка</naim>
+<edizm>шт</edizm>
+<price>15</price>
+</tovar>
+<tovar id="507">
+<naim>Konica CENTURIA SUPER 200/36</naim>
+<edizm>шт</edizm>
+<price>90</price>
+</tovar>
+<tovar id="508">
+<naim>Konica CENTURIA SUPER 400/12 уценка</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="509">
+<naim>Konica MONOCHROME 400/36</naim>
+<edizm>шт</edizm>
+<price>50</price>
+</tovar>
+<tovar id="510">
+<naim>Samsung 100/12 уценка Фотопленка</naim>
+<edizm>шт</edizm>
+<price>15</price>
+</tovar>
+<tovar id="511">
+<naim>Samsung 100/24 уценка Фотопленка</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+<tovar id="512">
+<naim>Tasma ч/б 100/36 Фотопленка</naim>
+<edizm>шт</edizm>
+<price>40</price>
+</tovar>
+<tovar id="513">
+<naim>Коника 100/12 уценка</naim>
+<edizm>шт</edizm>
+<price>15</price>
+</tovar>
+<tovar id="514">
+<naim>Коника 400/12</naim>
+<edizm>шт</edizm>
+<price>60</price>
+</tovar>
+<tovar id="515">
+<naim>Коника 400/12 уценка</naim>
+<edizm>шт</edizm>
+<price>20</price>
+</tovar>
+</category>
+<category id="Фотофильтры">
+<tovar id="517">
+<naim>фильтр 52 UV</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="518">
+<naim>B+W 010 HS UV-HAZE 58mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>900</price>
+</tovar>
+<tovar id="519">
+<naim>B+W 010 HS UV-HAZE 62mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="520">
+<naim>B+W KR-1.5M HS SKYLIGHT 62mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1424</price>
+</tovar>
+<tovar id="521">
+<naim>CAVEI CV-UV25 Ультрафиолетовый Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="522">
+<naim>CAVEI CV-UV27 Ультрафиолетовый Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="523">
+<naim>CAVEI CV-UV28 Ультрафиолетовый Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="524">
+<naim>CAVEI CV-UV30,5 Ультрафиолетовый Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="525">
+<naim>CAVEI CV-UV34 Ультрафиолетовый Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="526">
+<naim>CAVEI CV-UV40,5 Ультрафиолетовый Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>210</price>
+</tovar>
+<tovar id="527">
+<naim>DHG Lens Circular P.L.D. 49mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1528</price>
+</tovar>
+<tovar id="528">
+<naim>DHG Lens PROTECT. 62mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>900</price>
+</tovar>
+<tovar id="529">
+<naim>DHG Star Cross 55 mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>638</price>
+</tovar>
+<tovar id="530">
+<naim>DHG Star Cross 62mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>775</price>
+</tovar>
+<tovar id="531">
+<naim>DHG Star Cross 77mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>958</price>
+</tovar>
+<tovar id="532">
+<naim>Doerr набор фильтров(уф/поляриз/макр 55mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="533">
+<naim>Doerr набор фильтров(уф/поляриз/макр 62mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>2000</price>
+</tovar>
+<tovar id="534">
+<naim>Doerr набор фильтров(уф/поляриз/макр 72mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>2500</price>
+</tovar>
+<tovar id="535">
+<naim>Doerr DHG Super Protect 55mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="536">
+<naim>Doerr DHG Super Protect 58mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="537">
+<naim>Doerr DHG Super Protect 62mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1400</price>
+</tovar>
+<tovar id="538">
+<naim>Doerr DHG Super Protect 77mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1400</price>
+</tovar>
+<tovar id="539">
+<naim>Doerr DHG UV FILTER 49mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="540">
+<naim>Doerr DHG UV FILTER 52mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="541">
+<naim>Doerr DHG UV FILTER 55mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="542">
+<naim>Doerr DHG UV FILTER 58mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="543">
+<naim>Doerr DHG UV FILTER 62mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="544">
+<naim>Doerr DHG UV FILTER 72mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1300</price>
+</tovar>
+<tovar id="545">
+<naim>Doerr DHG UV FILTER 77mm Фильтр</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="546">
+<naim>KENKO 52 S MC-1B SKYLIGHT Фильтр</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="547">
+<naim>KENKO 58 pro l1b Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="548">
+<naim>KENKO 62 MC PROTECTOR Фильтр</naim>
+<edizm>шт</edizm>
+<price>475</price>
+</tovar>
+<tovar id="549">
+<naim>KENKO 77 MC-1B SKYLIGHT Фильтр</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="550">
+<naim>KENKO 82 S MC-1B SKYLIGHT Фильтр</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="551">
+<naim>Marumi 67mm Крышка для объектива</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="552">
+<naim>Marumi DHG LENS PROTECT 55mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>570</price>
+</tovar>
+<tovar id="553">
+<naim>Marumi Mars 58mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="554">
+<naim>Marumi MC-Circular PL 49mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1146</price>
+</tovar>
+<tovar id="555">
+<naim>Marumi MC-L400 Dynamic WideType 62mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1232</price>
+</tovar>
+<tovar id="556">
+<naim>Marumi MC-SKY 1A 77mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1816</price>
+</tovar>
+<tovar id="557">
+<naim>Marumi MC-UV (Haze) 55mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="558">
+<naim>Marumi MC-UV (Haze) 77mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1300</price>
+</tovar>
+<tovar id="559">
+<naim>Marumi NEO MC-ND4 77mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1290</price>
+</tovar>
+<tovar id="560">
+<naim>Marumi Parallel Screen Varicross S 67mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1366</price>
+</tovar>
+<tovar id="561">
+<naim>Marumi Sepia 67mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>900</price>
+</tovar>
+<tovar id="562">
+<naim>Marumi Soft - Tone Z1 67mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>793</price>
+</tovar>
+<tovar id="563">
+<naim>Marumi UV 25mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="564">
+<naim>Marumi UV 27mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="565">
+<naim>Marumi UV 28mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="566">
+<naim>Marumi UV 34mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="567">
+<naim>Marumi UV 67mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>850</price>
+</tovar>
+<tovar id="568">
+<naim>Marumi Wide MC-Circular PL 49mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1140</price>
+</tovar>
+<tovar id="569">
+<naim>Marumi Wide MC-Circular PL 62mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1550</price>
+</tovar>
+<tovar id="570">
+<naim>Marumi WIDE MC-UV 62mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="571">
+<naim>Marumi WPC-1B 55mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>530</price>
+</tovar>
+<tovar id="572">
+<naim>Marumi WPC-1B 77mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="573">
+<naim>Marumi WPC-Circular PL 77mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1888</price>
+</tovar>
+<tovar id="574">
+<naim>Marumi WPC-Normal 49mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>448</price>
+</tovar>
+<tovar id="575">
+<naim>Marumi WPC-UV 49mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>448</price>
+</tovar>
+<tovar id="576">
+<naim>Marumi WPC-UV 62mm Фильтр на объектив</naim>
+<edizm>шт</edizm>
+<price>849</price>
+</tovar>
+<tovar id="577">
+<naim>Practica UV+ 55mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>450</price>
+</tovar>
+<tovar id="578">
+<naim>Practica UV+ 62mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="579">
+<naim>Sigma UV 77 Фильтр</naim>
+<edizm>шт</edizm>
+<price>1037</price>
+</tovar>
+<tovar id="580">
+<naim>Sigma PL-C 67 Фильтр</naim>
+<edizm>шт</edizm>
+<price>2122</price>
+</tovar>
+<tovar id="581">
+<naim>Sigma PL-C 77 Фильтр</naim>
+<edizm>шт</edizm>
+<price>2448</price>
+</tovar>
+<tovar id="582">
+<naim>Sigma WIDE C- PL 72 Фильтр</naim>
+<edizm>шт</edizm>
+<price>2418</price>
+</tovar>
+<tovar id="583">
+<naim>Soligor DHG UV 55mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="584">
+<naim>Soligor DHG UV 58mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="585">
+<naim>Soligor DHG UV 62mm Фотофильтр</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="586">
+<naim>Бленда 55мм резиновая Marumi</naim>
+<edizm>шт</edizm>
+<price>250</price>
+</tovar>
+<tovar id="587">
+<naim>Бленда 62мм резиновая Marumi</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="588">
+<naim>Крышка д/объектива MENNON 25mm</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="589">
+<naim>Крышка д/объектива MENNON 30mm</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="590">
+<naim>Крышка д/объектива MENNON 37mm</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="591">
+<naim>Крышка д/объектива MENNON 52mm</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+</category>
+<category id="Цифровые фотоаппараты">
+<tovar id="593">
+<naim>Canon digital IXUS 80 IS s/фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>9999</price>
+</tovar>
+<tovar id="594">
+<naim>Canon digital IXUS 85 IS b Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>10799</price>
+</tovar>
+<tovar id="595">
+<naim>Canon digital IXUS 85 IS s Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>9999</price>
+</tovar>
+<tovar id="596">
+<naim>Canon digital IXUS 90 IS (10МП,3x.SD)</naim>
+<edizm>шт</edizm>
+<price>10999</price>
+</tovar>
+<tovar id="597">
+<naim>Canon Digital IXUS 970 IS Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>11699</price>
+</tovar>
+<tovar id="598">
+<naim>CANON EOS-1000D18-55 IS kit</naim>
+<edizm>шт</edizm>
+<price>24999</price>
+</tovar>
+<tovar id="599">
+<naim>CANON EOS-450D(12.2МП,SD) Body Цифровой ф-ат</naim>
+<edizm>шт</edizm>
+<price>32999</price>
+</tovar>
+<tovar id="600">
+<naim>CANON EOS-450D18-55 IS</naim>
+<edizm>шт</edizm>
+<price>32999</price>
+</tovar>
+<tovar id="601">
+<naim>CANON EOS-5D 12Mpix. CF Body Цифровой фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>70000</price>
+</tovar>
+<tovar id="602">
+<naim>Canon PowerShot A 1000 IS Цифровой фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7999</price>
+</tovar>
+<tovar id="603">
+<naim>Canon PowerShot A 470(6МП,4x.SD)grey Ц/фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>4999</price>
+</tovar>
+<tovar id="604">
+<naim>Canon PowerShot A 470(6МП,4x.SD)red Ц/фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>4999</price>
+</tovar>
+<tovar id="605">
+<naim>Canon PowerShot A 480 black Цифровой фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>6999</price>
+</tovar>
+<tovar id="606">
+<naim>Canon PowerShot A 580 Цифровой фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>5999</price>
+</tovar>
+<tovar id="607">
+<naim>Casio EX-Z100 black Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>6499</price>
+</tovar>
+<tovar id="608">
+<naim>Casio EX-Z100 silver Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>6499</price>
+</tovar>
+<tovar id="609">
+<naim>Casio EX-Z150 black Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>6299</price>
+</tovar>
+<tovar id="610">
+<naim>Casio EX-Z150 red Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>6299</price>
+</tovar>
+<tovar id="611">
+<naim>Casio EX-Z150 silver Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>6299</price>
+</tovar>
+<tovar id="612">
+<naim>Casio EX-Z85 black Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>5999</price>
+</tovar>
+<tovar id="613">
+<naim>Casio EX-Z85 blue Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>5999</price>
+</tovar>
+<tovar id="614">
+<naim>Casio EX-Z85 silver Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>5999</price>
+</tovar>
+<tovar id="615">
+<naim>Kodak EasyShare M863 pink Цифровой фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>5999</price>
+</tovar>
+<tovar id="616">
+<naim>Kodak EasyShare M863 Red Цифровой фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>5999</price>
+</tovar>
+<tovar id="617">
+<naim>Kodak EasyShare V1253 BlackЦифровой фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>8499</price>
+</tovar>
+<tovar id="618">
+<naim>Kodak EasyShare Z8612 Black Цифровой фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>8499</price>
+</tovar>
+<tovar id="619">
+<naim>Nikon D40/18-55 KIT AF-S DX II black Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>18999</price>
+</tovar>
+<tovar id="620">
+<naim>Olimpus Digital FE-3010 black Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7499</price>
+</tovar>
+<tovar id="621">
+<naim>Olimpus Digital FE-3010 gold Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7499</price>
+</tovar>
+<tovar id="622">
+<naim>Olimpus Digital FE-45 blue Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>5499</price>
+</tovar>
+<tovar id="623">
+<naim>Olimpus Digital Mju-850 pink Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>9499</price>
+</tovar>
+<tovar id="624">
+<naim>Olimpus Digital SP-565 (10МП,20х,XD) Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>15999</price>
+</tovar>
+<tovar id="625">
+<naim>Panasonic DMC-FZ28(10.1МП,18х,SD) Цифровой фото-т</naim>
+<edizm>шт</edizm>
+<price>17499</price>
+</tovar>
+<tovar id="626">
+<naim>Panasonic DMC-FZ28(10.1МП,18х,SD) Цифровой фото-т</naim>
+<edizm>шт</edizm>
+<price>17499</price>
+</tovar>
+<tovar id="627">
+<naim>Panasonic DMC-LS80 black Цифровой фото-т</naim>
+<edizm>шт</edizm>
+<price>4999</price>
+</tovar>
+<tovar id="628">
+<naim>Panasonic DMC-TZ4 серебряный Цифровой фото-т</naim>
+<edizm>шт</edizm>
+<price>11999</price>
+</tovar>
+<tovar id="629">
+<naim>Panasonic DMC-TZ5 синий Цифровой фото-т</naim>
+<edizm>шт</edizm>
+<price>13999</price>
+</tovar>
+<tovar id="630">
+<naim>Samsung DIGIMAX ES10 black Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>3999</price>
+</tovar>
+<tovar id="631">
+<naim>Samsung DIGIMAX ES15 black Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>4999</price>
+</tovar>
+<tovar id="632">
+<naim>Sony Alfa DSLR-A-200W KIT 2 black Цифровая камера</naim>
+<edizm>шт</edizm>
+<price>28999</price>
+</tovar>
+<tovar id="633">
+<naim>Sony DSC-T2 blackФотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7999</price>
+</tovar>
+<tovar id="634">
+<naim>Sony DSC-T2 blueФотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7999</price>
+</tovar>
+<tovar id="635">
+<naim>Sony DSC-T2 зеленыйФотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7999</price>
+</tovar>
+<tovar id="636">
+<naim>Sony DSC-T2/White Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7999</price>
+</tovar>
+<tovar id="637">
+<naim>Sony DSC-W120 pink Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>6199</price>
+</tovar>
+<tovar id="638">
+<naim>Sony DSC-W150 black Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7999</price>
+</tovar>
+<tovar id="639">
+<naim>Sony DSC-W150 silver Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>7999</price>
+</tovar>
+<tovar id="640">
+<naim>Sony DSC-W170 red Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>9999</price>
+</tovar>
+<tovar id="641">
+<naim>Sony DSC-W55 Blue Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>6699</price>
+</tovar>
+<tovar id="642">
+<naim>Sony DSC-Н10/b(8.1МП,10x.MS Duo) Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>11999</price>
+</tovar>
+<tovar id="643">
+<naim>Sony DSC-Н10/S(8.1МП,10x.MS Duo) Фотоаппарат</naim>
+<edizm>шт</edizm>
+<price>11999</price>
+</tovar>
+<tovar id="644">
+<naim>Кабель USB 2.0 AM/miniB 5P</naim>
+<edizm>шт</edizm>
+<price>50</price>
+</tovar>
+<tovar id="645">
+<naim>Цифровая РАМКА Aerovision M8-F 128мб белый</naim>
+<edizm>шт</edizm>
+<price>6000</price>
+</tovar>
+<tovar id="646">
+<naim>Цифровая РАМКА Aerovision M8-F 128мб тёмно-синий</naim>
+<edizm>шт</edizm>
+<price>6000</price>
+</tovar>
+<tovar id="647">
+<naim>Цифровая РАМКА Diframe F5X8 256mb 256мб Black</naim>
+<edizm>шт</edizm>
+<price>8000</price>
+</tovar>
+<tovar id="648">
+<naim>Цифровая РАМКА Diframe F7*7</naim>
+<edizm>шт</edizm>
+<price>4600</price>
+</tovar>
+<tovar id="649">
+<naim>Цифровая РАМКА Philips 10FF2CMI</naim>
+<edizm>шт</edizm>
+<price>8500</price>
+</tovar>
+<tovar id="650">
+<naim>Цифровой РАМКА Kodak P820</naim>
+<edizm>шт</edizm>
+<price>5800</price>
+</tovar>
+<tovar id="651">
+<naim>Цифровой РАМКА Kodak S510</naim>
+<edizm>шт</edizm>
+<price>3800</price>
+</tovar>
+<tovar id="652">
+<naim>Цифровой РАМКА Kodak SV1011</naim>
+<edizm>шт</edizm>
+<price>7300</price>
+</tovar>
+<tovar id="653">
+<naim>Цифровой РАМКА Transcend T.photo 710C</naim>
+<edizm>шт</edizm>
+<price>4500</price>
+</tovar>
+</category>
+<category id="Чехлы">
+<tovar id="655">
+<naim>202 Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="656">
+<naim>4010 Green Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="657">
+<naim>4010 orange Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="658">
+<naim>4010 Pink Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="659">
+<naim>4012 Hard Pink Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="660">
+<naim>4012 Hard White Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="661">
+<naim>4012 Orange Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="662">
+<naim>4015 Blu Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="663">
+<naim>4015 Green Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="664">
+<naim>4015 Orange Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="665">
+<naim>4015 Pink Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="666">
+<naim>900 для IPOD розовый Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>250</price>
+</tovar>
+<tovar id="667">
+<naim>900 для IPOD синий Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>250</price>
+</tovar>
+<tovar id="668">
+<naim>905 для IPOD белый Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="669">
+<naim>Crisp "E" 350-004 TC-350 Сумка</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="670">
+<naim>Crisp "E" 350-005 TC-350 Сумка</naim>
+<edizm>шт</edizm>
+<price>500</price>
+</tovar>
+<tovar id="671">
+<naim>DC-400v Pink Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="672">
+<naim>DC-400v Red Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="673">
+<naim>DC-400v Yellow Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="674">
+<naim>DC-400vShampain Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="675">
+<naim>DC-405v Red Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="676">
+<naim>DC-405v Yellow Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="677">
+<naim>DC-600v brown Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="678">
+<naim>DC-605h black Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="679">
+<naim>DC-605v brown Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="680">
+<naim>DC-655v black Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="681">
+<naim>DC-V701 black Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="682">
+<naim>DC-V701 Blue Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="683">
+<naim>DC-V701 Red Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="684">
+<naim>DC-V702 Blue Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="685">
+<naim>ERA 859синий чехол</naim>
+<edizm>шт</edizm>
+<price>180</price>
+</tovar>
+<tovar id="686">
+<naim>ERA 872синий чехол</naim>
+<edizm>шт</edizm>
+<price>180</price>
+</tovar>
+<tovar id="687">
+<naim>ERA 874синий чехол</naim>
+<edizm>шт</edizm>
+<price>180</price>
+</tovar>
+<tovar id="688">
+<naim>ERA DCB-16 чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="689">
+<naim>ERA ECB-1 чехол</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="690">
+<naim>ERA ECO851 Чехол</naim>
+<edizm>шт</edizm>
+<price>250</price>
+</tovar>
+<tovar id="691">
+<naim>ERA P23 чехол</naim>
+<edizm>шт</edizm>
+<price>178</price>
+</tovar>
+<tovar id="692">
+<naim>ERA QPB-1 чехол</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="693">
+<naim>ERA QPB-2 чехол</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="694">
+<naim>ERA S02 чехол</naim>
+<edizm>шт</edizm>
+<price>120</price>
+</tovar>
+<tovar id="695">
+<naim>ERA S07 чехол</naim>
+<edizm>шт</edizm>
+<price>130</price>
+</tovar>
+<tovar id="696">
+<naim>ERA S30 кожа чехол</naim>
+<edizm>шт</edizm>
+<price>133</price>
+</tovar>
+<tovar id="697">
+<naim>ERA S70 чехол</naim>
+<edizm>шт</edizm>
+<price>129</price>
+</tovar>
+<tovar id="698">
+<naim>ERA VS1 чехол</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="699">
+<naim>ERA VS3 чехол</naim>
+<edizm>шт</edizm>
+<price>340</price>
+</tovar>
+<tovar id="700">
+<naim>ERA VS4 чехол</naim>
+<edizm>шт</edizm>
+<price>600</price>
+</tovar>
+<tovar id="701">
+<naim>ERA VS9 чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="702">
+<naim>GOLLA G160 чехол</naim>
+<edizm>шт</edizm>
+<price>280</price>
+</tovar>
+<tovar id="703">
+<naim>GOLLA G167 чехол</naim>
+<edizm>шт</edizm>
+<price>280</price>
+</tovar>
+<tovar id="704">
+<naim>H3010 Blue Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="705">
+<naim>John Thursday 50-005 Сумка</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="706">
+<naim>John Thursday 80-001 Сумка</naim>
+<edizm>шт</edizm>
+<price>350</price>
+</tovar>
+<tovar id="707">
+<naim>John Thursday 80-002 Сумка</naim>
+<edizm>шт</edizm>
+<price>350</price>
+</tovar>
+<tovar id="708">
+<naim>Pouch 100-001 (100*70) Сумка</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="709">
+<naim>Pouch 100-002 (100*70) Сумка</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="710">
+<naim>Pouch 100-003 (100*70) Сумка</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="711">
+<naim>Pouch 120-001(130*70) Сумка</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="712">
+<naim>Pouch 120-002(130*70) Сумка</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="713">
+<naim>Pouch 90-003 (100*60) Сумка</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="714">
+<naim>Riva Case 4046 Чехол</naim>
+<edizm>шт</edizm>
+<price>422</price>
+</tovar>
+<tovar id="715">
+<naim>Riva Case 7022-AT Чехол</naim>
+<edizm>шт</edizm>
+<price>310</price>
+</tovar>
+<tovar id="716">
+<naim>Riva Case 7022-PU Чехол</naim>
+<edizm>шт</edizm>
+<price>285</price>
+</tovar>
+<tovar id="717">
+<naim>Riva Case 7022R-01 Чехол</naim>
+<edizm>шт</edizm>
+<price>310</price>
+</tovar>
+<tovar id="718">
+<naim>Riva Case 7023-PU Чехол</naim>
+<edizm>шт</edizm>
+<price>310</price>
+</tovar>
+<tovar id="719">
+<naim>Riva Case 7024 Чехол</naim>
+<edizm>шт</edizm>
+<price>260</price>
+</tovar>
+<tovar id="720">
+<naim>Riva Case 7024-PU Чехол</naim>
+<edizm>шт</edizm>
+<price>330</price>
+</tovar>
+<tovar id="721">
+<naim>Riva Case 7058 Чехол</naim>
+<edizm>шт</edizm>
+<price>265</price>
+</tovar>
+<tovar id="722">
+<naim>Riva Case 7062AP Чехол</naim>
+<edizm>шт</edizm>
+<price>325</price>
+</tovar>
+<tovar id="723">
+<naim>Riva Case 7080 PU Чехол</naim>
+<edizm>шт</edizm>
+<price>554</price>
+</tovar>
+<tovar id="724">
+<naim>Riva Case 7136 AP Чехол</naim>
+<edizm>шт</edizm>
+<price>665</price>
+</tovar>
+<tovar id="725">
+<naim>Riva Case 7143 PS Чехол</naim>
+<edizm>шт</edizm>
+<price>280</price>
+</tovar>
+<tovar id="726">
+<naim>Riva Case 7177A-PS black Чехол</naim>
+<edizm>шт</edizm>
+<price>395</price>
+</tovar>
+<tovar id="727">
+<naim>Riva Case 9045 Чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="728">
+<naim>S1004 Grey Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>300</price>
+</tovar>
+<tovar id="729">
+<naim>S1007 Grey Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>170</price>
+</tovar>
+<tovar id="730">
+<naim>S3014 Green Dicom чехол</naim>
+<edizm>шт</edizm>
+<price>130</price>
+</tovar>
+<tovar id="731">
+<naim>Влагозащитный чехол Rekam PAW 010Y</naim>
+<edizm>шт</edizm>
+<price>50</price>
+</tovar>
+<tovar id="732">
+<naim>Подводный бокс Sony</naim>
+<edizm>шт</edizm>
+<price>3200</price>
+</tovar>
+</category>
+<category id="Штативы">
+<tovar id="734">
+<naim>Continent Tripod B2 Штатив</naim>
+<edizm>шт</edizm>
+<price>750</price>
+</tovar>
+<tovar id="735">
+<naim>ERA 0010 Штатив</naim>
+<edizm>шт</edizm>
+<price>100</price>
+</tovar>
+<tovar id="736">
+<naim>ERA 0050 Штатив</naim>
+<edizm>шт</edizm>
+<price>200</price>
+</tovar>
+<tovar id="737">
+<naim>ERA ECSA-0363 Штатив</naim>
+<edizm>шт</edizm>
+<price>750</price>
+</tovar>
+<tovar id="738">
+<naim>ERA ECSA-3512 Штатив</naim>
+<edizm>шт</edizm>
+<price>700</price>
+</tovar>
+<tovar id="739">
+<naim>ERA ECSA-3550 Штатив</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="740">
+<naim>ERA ECSA-3570 Штатив</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="741">
+<naim>ERA ECSA-3710 Штатив</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="742">
+<naim>ERA ECSA-3750 Штатив</naim>
+<edizm>шт</edizm>
+<price>1200</price>
+</tovar>
+<tovar id="743">
+<naim>ERA ECSA-3770 Штатив</naim>
+<edizm>шт</edizm>
+<price>1500</price>
+</tovar>
+<tovar id="744">
+<naim>ERA ED-23 Штатив</naim>
+<edizm>шт</edizm>
+<price>1000</price>
+</tovar>
+<tovar id="745">
+<naim>ERA ED-5 Штатив</naim>
+<edizm>шт</edizm>
+<price>900</price>
+</tovar>
+<tovar id="746">
+<naim>ERA ED-6 Штатив</naim>
+<edizm>шт</edizm>
+<price>1100</price>
+</tovar>
+<tovar id="747">
+<naim>ERA ED-8 Штатив</naim>
+<edizm>шт</edizm>
+<price>900</price>
+</tovar>
+<tovar id="748">
+<naim>ERA ED-9 Штатив</naim>
+<edizm>шт</edizm>
+<price>1150</price>
+</tovar>
+<tovar id="749">
+<naim>ERA ELT-0360 Штатив</naim>
+<edizm>шт</edizm>
+<price>1260</price>
+</tovar>
+<tovar id="750">
+<naim>ERA EM-1 Штатив</naim>
+<edizm>шт</edizm>
+<price>620</price>
+</tovar>
+<tovar id="751">
+<naim>Manfrotto 055 Штатив</naim>
+<edizm>шт</edizm>
+<price>8000</price>
+</tovar>
+<tovar id="752">
+<naim>Manfrotto 141 головка</naim>
+<edizm>шт</edizm>
+<price>2200</price>
+</tovar>
+<tovar id="753">
+<naim>Manfrotto 2000 PL-14 подошва</naim>
+<edizm>шт</edizm>
+<price>400</price>
+</tovar>
+<tovar id="754">
+<naim>Manfrotto 234RC2 головка</naim>
+<edizm>шт</edizm>
+<price>1300</price>
+</tovar>
+<tovar id="755">
+<naim>Manfrotto 322RC2 головка</naim>
+<edizm>шт</edizm>
+<price>4000</price>
+</tovar>
+<tovar id="756">
+<naim>Manfrotto 460MG головка</naim>
+<edizm>шт</edizm>
+<price>3600</price>
+</tovar>
+<tovar id="757">
+<naim>Manfrotto 486RC2 головка</naim>
+<edizm>шт</edizm>
+<price>2200</price>
+</tovar>
+<tovar id="758">
+<naim>Manfrotto 679В штатив-монопод</naim>
+<edizm>шт</edizm>
+<price>1800</price>
+</tovar>
+<tovar id="759">
+<naim>Manfrotto 680В штатив-монопод</naim>
+<edizm>шт</edizm>
+<price>2200</price>
+</tovar>
+<tovar id="760">
+<naim>Manfrotto 685В штатив-монопод</naim>
+<edizm>шт</edizm>
+<price>4000</price>
+</tovar>
+<tovar id="761">
+<naim>Manfrotto 715 B</naim>
+<edizm>шт</edizm>
+<price>2600</price>
+</tovar>
+<tovar id="762">
+<naim>MonsterPod+Travel Case прилипающий штатив Штатив</naim>
+<edizm>шт</edizm>
+<price>940</price>
+</tovar>
+<tovar id="763">
+<naim>Rekam RT-D25 Штатив</naim>
+<edizm>шт</edizm>
+<price>800</price>
+</tovar>
+<tovar id="764">
+<naim>Rekam RT-L39 Штатив</naim>
+<edizm>шт</edizm>
+<price>690</price>
+</tovar>
+<tovar id="765">
+<naim>Rekam М1 Штатив</naim>
+<edizm>шт</edizm>
+<price>91</price>
+</tovar>
+<tovar id="766">
+<naim>Sony VCT-60AV Штатив</naim>
+<edizm>шт</edizm>
+<price>3600</price>
+</tovar>
+<tovar id="767">
+<naim>Стойка FY l-3050</naim>
+<edizm>шт</edizm>
+<price>1600</price>
+</tovar>
+</category>
+</tovars>
+</price_list>

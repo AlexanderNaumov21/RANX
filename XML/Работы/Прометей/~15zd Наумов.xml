@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="15zd_xsl.xsl"?>
+<tovars>
+<opis>Товары фирмы</opis>
+<tovar>
+ <naim>Керосин</naim>
+ <price>1</price>
+</tovar>
+<tovar>
+ <naim>Бензин</naim>
+ <price>5</price>
+</tovar>
+<tovar>
+ <naim>Дизтопливо</naim>
+ <price>11</price>
+</tovar>
+</tovars>
+

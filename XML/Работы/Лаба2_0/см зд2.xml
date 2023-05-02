@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<College>
+          <faculty>
+                   <NAME>Управления</NAME>
+                   <Groups>
+                        <Group>
+                          <NAME>Иб-321</NAME>
+                           <students>
+                             <students> Alex</students>
+                             <students> Lily</students>
+                             <students> Vasi</students>
+                           </students>
+                        </Group>
+                        <Group>
+                          <NAME>Кб-321</NAME>
+                           <students>
+                             <students> Alex</students>
+                             <students> Lily</students>
+                             <students> Vasi</students>
+                           </students>
+                        </Group>
+                   </Groups>
+          </faculty>
+          <faculty>
+                   <NAME>Экономический</NAME>
+                   <Groups>
+                        <Group>
+                          <NAME>Эб-321</NAME>
+                           <students>
+                             <students> Alex</students>
+                             <students> Lily</students>
+                             <students> Vasi</students>
+                           </students>
+                        </Group>
+                        <Group>
+                          <NAME>уб-321</NAME>
+                           <students>
+                             <students> Alex</students>
+                             <students> Lily</students>
+                             <students> Vasi</students>
+                           </students>
+                        </Group>
+                   </Groups>
+          </faculty>
+</College>

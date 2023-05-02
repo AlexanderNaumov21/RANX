@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TOVARS>
+<TOVAR NAIM="Керосин"><PRICE>40</PRICE></TOVAR>
+<TOVAR NAIM="Момада"><PRICE>300</PRICE></TOVAR>
+<TOVAR NAIM="Хлеб"><PRICE>30</PRICE></TOVAR>
+</TOVARS>
+
+

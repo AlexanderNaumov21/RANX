@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PC>
+    <Accessories>
+                     <tovar>
+                            <NAME>GeForost</NAME>
+                            <CURRENCY>1123 </CURRENCY>
+                     </tovar>
+                     <tovar>
+                            <NAME>AMD </NAME>
+                             <CURRENCY> 8905</CURRENCY>
+                   </tovar>
+                   <tovar>
+                          <NAME>intel </NAME>
+                          <CURRENCY>2345 </CURRENCY>
+                   </tovar>
+    </Accessories>
+</PC>

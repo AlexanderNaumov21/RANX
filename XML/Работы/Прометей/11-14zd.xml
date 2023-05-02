@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<price>
+ <naim>Прайс-лист нефтепродуктов</naim>
+ <firma>
+  <naim>Торговля-Нефть</naim>
+ </firma>
+ <tovars>
+  <tovar vid="Топливо">
+   <naim>Бензин</naim>
+   <price>20</price>
+  </tovar>
+  <tovar vid="Топливо">
+   <naim>Керосин</naim>
+   <price>40</price>
+  </tovar>
+ </tovars>
+</price>
+

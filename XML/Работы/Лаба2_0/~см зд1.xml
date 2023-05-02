@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<COUNTRYS>
+          <COUNTRY>
+                   <NAME>Россия </NAME>
+                   <CURRENCY> </CURRENCY>
+          </COUNTRY>
+          <COUNTRY>
+                   <NAME>США </NAME>
+                   <CURRENCY> </CURRENCY>
+          </COUNTRY>
+          <COUNTRY>
+                   <NAME> </NAME>
+                   <CURRENCY> </CURRENCY>
+          </COUNTRY>
+</COUNTRYS>

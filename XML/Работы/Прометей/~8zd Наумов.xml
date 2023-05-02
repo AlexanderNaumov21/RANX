@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TOV:TOVARS xmlns:TOV="http://www.sklad.ru/tovar" xmlns:UPK="http://www.sklad.ru/upack" xmlns:EDI="http://www.sklad.ru/edizm">
+<TOV:TOVAR>
+ <TOV:NAIM>Керосин</TOV:NAIM>
+ <TOV:PRICE>40</TOV:PRICE>
+ <UPK:UPAK>
+  <UPK:NAIM>Ящик</UPK:NAIM>
+  <UPK:KOL_VO>10</UPK:KOL_VO>
+  <UPK:KOL_ED>20</UPK:KOL_ED>
+  <EDI:ED_IZM>
+   <EDI:NAIM>Бутылка</EDI:NAIM>
+   <EDI:DOP_OPIS>0,5л</EDI:DOP_OPIS>
+  </EDI:ED_IZM>
+ </UPK:UPAK>
+</TOV:TOVAR>
+
+<TOV:TOVAR>
+ <TOV:NAIM>Помада</TOV:NAIM>
+ <TOV:PRICE>300</TOV:PRICE>
+ <UPK:UPAK>
+  <UPK:NAIM>Коробка</UPK:NAIM>
+  <UPK:KOL_VO>20</UPK:KOL_VO>
+  <UPK:KOL_ED>10</UPK:KOL_ED>
+  <EDI:ED_IZM>
+   <EDI:NAIM>Тюбик</EDI:NAIM>
+  </EDI:ED_IZM>
+ </UPK:UPAK>
+</TOV:TOVAR>
+
+<TOV:TOVAR>
+ <TOV:NAIM>Хлеб</TOV:NAIM>
+ <TOV:PRICE>30</TOV:PRICE>
+ <UPK:UPAK>
+  <UPK:NAIM>Поддон</UPK:NAIM>
+  <UPK:KOL_VO>30</UPK:KOL_VO>
+  <UPK:KOL_ED>10</UPK:KOL_ED>
+  <EDI:ED_IZM>
+   <EDI:NAIM>Буханка</EDI:NAIM>
+   <EDI:DOP_OPIS>0,5кг</EDI:DOP_OPIS>
+  </EDI:ED_IZM>
+ </UPK:UPAK>
+</TOV:TOVAR>
+</TOV:TOVARS>
+
+

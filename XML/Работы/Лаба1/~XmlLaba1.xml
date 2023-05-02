@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--<?xml-stylesheet type="text/css" href="style.css"?>-->
+<!--Имя файла: Private_hospital.xml -->
+<INVENTORY>
+  <SMARTPHONE>
+        <TITLE>iPhone 11</TITLE>
+        <PRICE>57000</PRICE>
+        <OS>ios 16.01</OS>
+        <BRAND>Apple</BRAND>
+        <MEMORY>128</MEMORY>
+        <DIAGONAL>6.06</DIAGONAL>
+        <FRONT_CAMERA>12</FRONT_CAMERA>
+        <REAR_CAMERA>12</REAR_CAMERA>
+  </SMARTPHONE>
+  <SMARTPHONE>
+        <TITLE>Redmi 4X</TITLE>
+        <PRICE>10 550</PRICE>
+        <OS>Android 6.0</OS>
+        <BRAND>Xiaomi</BRAND>
+        <MEMORY>64</MEMORY>
+        <DIAGONAL>5</DIAGONAL>
+        <FRONT_CAMERA>5</FRONT_CAMERA>
+        <REAR_CAMERA>12</REAR_CAMERA>
+  </SMARTPHONE>
+  <SMARTPHONE>
+        <TITLE>POCO M5</TITLE>
+        <PRICE>16 290</PRICE>
+        <OS>Android 12.0</OS>
+        <BRAND>Xiaomi</BRAND>
+        <MEMORY>128</MEMORY>
+        <DIAGONAL>6.58</DIAGONAL>
+        <FRONT_CAMERA>50</FRONT_CAMERA>
+        <REAR_CAMERA>12</REAR_CAMERA>
+  </SMARTPHONE>
+</INVENTORY>

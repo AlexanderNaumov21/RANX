@@ -1,0 +1,4 @@
+11) //naim
+12)//naim/text()
+13)//tovar[2]
+14)//@vid
