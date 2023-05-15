@@ -1,0 +1,21 @@
+body {
+	background-color: #F0FFFF;
+}
+
+h1, h2, h3, span {
+	color: red;
+	font-family: 'Georgia';
+}
+
+#span1 {
+	color: #00FF00; 
+	font-family: 'Calibri'; 
+	text-decoration: underline;
+}
+
+#span2, #span3 {
+	color: #FF00FF; 
+	font-family: 'Georgia'; 
+	text-decoration: underline gold;
+}
+
