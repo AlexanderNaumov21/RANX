@@ -1,0 +1,5 @@
+Добавление jdbc:
+file > Project Structure > Modules > +
+В jar файл:
+file > Project Structure > Artifacts > + > JAR > from modules > указываем main метод > ok
+build> Build Artifacts > Build
